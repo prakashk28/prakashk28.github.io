@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e6970cd.css",
+    "main.js": "/static/js/main.fe61488e.js",
+    "static/media/My image.png": "/static/media/My image.eb50a54d2ffea9286c1d.png",
+    "static/media/about image.png": "/static/media/about image.eb5d1874ca4eb054000f.png",
+    "static/media/homeicons2.png": "/static/media/homeicons2.0fde1de09933e4b9de66.png",
+    "static/media/nasscom_cert.png": "/static/media/nasscom_cert.5a17ad13bc8c7b73305e.png",
+    "static/media/index.cjs": "/static/media/index.a02930182e698c6507fb.cjs",
+    "static/media/Automated_Document_Summarization_And_Keyword_Extraction.jpg": "/static/media/Automated_Document_Summarization_And_Keyword_Extraction.fa1cfa7c14132f73757f.jpg",
+    "static/media/Heart_Disease_Classification.jpg": "/static/media/Heart_Disease_Classification.a28d387924bddfb94330.jpg",
+    "static/media/Medical_charges_prediction.jpg": "/static/media/Medical_charges_prediction.9b2940fea17d909a7af0.jpg",
+    "static/media/ai_cert.jpeg": "/static/media/ai_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/cloud_cert.jpeg": "/static/media/cloud_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/data_science_cert.jpeg": "/static/media/data_science_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/hadoop_cert.jpeg": "/static/media/hadoop_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/powerbi_cert.jpeg": "/static/media/powerbi_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/python_cert.jpeg": "/static/media/python_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/sql_cert.jpeg": "/static/media/sql_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/tableau_cert.jpeg": "/static/media/tableau_cert.8f28eea87afb907bbed2.jpeg",
+    "static/media/pre.svg": "/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/index.html",
+    "main.2e6970cd.css.map": "/static/css/main.2e6970cd.css.map",
+    "main.fe61488e.js.map": "/static/js/main.fe61488e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6970cd.css",
+    "static/js/main.fe61488e.js"
+  ]
+}
